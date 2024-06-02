@@ -1,0 +1,16 @@
+com\pokemonapp\entities\Type.class
+com\pokemonapp\TypeDAO.class
+com\pokemonapp\entities\Entrenador.class
+com\pokemonapp\entities\Tipo.class
+com\pokemonapp\PokemonDAO.class
+com\pokemonapp\entities\Move.class
+com\pokemonapp\TipoDAO.class
+com\pokemonapp\TrainerDAO.class
+com\pokemonapp\AplicacionPokemon.class
+com\pokemonapp\MovimientoDAO.class
+com\pokemonapp\entities\Pokemon.class
+com\pokemonapp\entities\Movimiento.class
+com\pokemonapp\entities\Trainer.class
+com\pokemonapp\EntrenadorDAO.class
+com\pokemonapp\MoveDAO.class
+com\pokemonapp\DatabaseConnection.class
